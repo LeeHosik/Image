@@ -1,0 +1,45 @@
+{“result” : [
+        {
+            "imgPath": "https://github.com/LeeHosik/Image/blob/main/Umamusume/ダイワスカーレット.png?raw=true",
+            "imgName": "Daiwa Scarlet",
+            "sakusen": "逃げ, 先行",
+            "category": "속도기"
+        },
+        {
+            "imgPath": "https://github.com/LeeHosik/Image/blob/main/Umamusume/キタサンブラック.png?raw=true",
+            "imgName": "Kitasan Black",
+            "sakusen": "逃げ, 先行",
+            "category": "속가복합기"
+        },
+        {
+            "imgPath": "https://github.com/LeeHosik/Image/blob/main/Umamusume/マヤノトップガン.png?raw=true",
+            "imgName": "Mayano Top Gun",
+            "sakusen": "逃げ, 先行",
+            "category": "속도기"
+        },
+        {
+            "imgPath": "https://github.com/LeeHosik/Image/blob/main/Umamusume/メジロアルダン.png?raw=true",
+            "imgName": "Mejiro Ardan",
+            "sakusen": "先行",
+            "category": "속도기"
+        },
+        {
+            "imgPath": "https://github.com/LeeHosik/Image/blob/main/Umamusume/ミホノブルボン.png?raw=true",
+            "imgName": "Mihono Bourbon",
+            "sakusen": "逃げ",
+            "category": "속도기"
+        },
+        {
+            "imgPath": "https://github.com/LeeHosik/Image/blob/main/Umamusume/ヤマニンゼファー.png?raw=true",
+            "imgName": "Yamanin Zephyr",
+            "sakusen": "先行",
+            "category": "속도기"
+        },
+        {
+            "imgPath": "https://github.com/LeeHosik/Image/blob/main/Umamusume/メジロマックイーン%20.png?raw=true",
+            "imgName": "Mejiro McQueen",
+            "sakusen": "先行",
+            "category": "속도기"
+        }
+    ]
+}
